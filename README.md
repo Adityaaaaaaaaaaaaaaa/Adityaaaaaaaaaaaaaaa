@@ -17,6 +17,7 @@ if (dayOfWeek == "Sunday" && month == "July" && currentYear % 4 == 0) {
 
 - ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityaaaaaaaaaaaaaaa&theme=synthwave)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaaaaaaaaaaaaa&langs_count=10)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaaaaaaaaaaaaa&layout=compact)
 
 <!---
 Adityaaaaaaaaaaaaaaa/Adityaaaaaaaaaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
