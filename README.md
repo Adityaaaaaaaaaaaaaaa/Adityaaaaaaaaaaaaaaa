@@ -15,6 +15,7 @@ if (dayOfWeek == "Sunday" && month == "July" && currentYear % 4 == 0) {
 - 3 Bugs,
 - 4 Days wasted ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityaaaaaaaaaaaaaaa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Adityaaaaaaaaaaaaaaa/Adityaaaaaaaaaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
