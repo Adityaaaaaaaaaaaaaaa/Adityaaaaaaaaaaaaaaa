@@ -15,9 +15,7 @@ if (dayOfWeek == "Sunday" && month == "July" && currentYear % 4 == 0) {
 - 3 Bugs,
 - 4 Days wasted ...
 
-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityaaaaaaaaaaaaaaa&theme=synthwave)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaaaaaaaaaaaaa&langs_count=10)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaaaaaaaaaaaaa&layout=compact)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaaaaaaaaaaaaa&layout=compact&theme=synthwave&langs_count=8)
 
 <!---
 Adityaaaaaaaaaaaaaaa/Adityaaaaaaaaaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
