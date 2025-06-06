@@ -17,7 +17,7 @@ if (dayOfWeek == "Sunday" && month == "July" && currentYear % 4 == 0) {
 3 bugs,
 4 days wasted...
 
-### 🚀 Technologies & Tools Ive used/been exposed to:
+<!--### 🚀 Technologies & Tools Ive used/been exposed to:
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,11 +47,11 @@ if (dayOfWeek == "Sunday" && month == "July" && currentYear % 4 == 0) {
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-</p>
+</p>-->
 
 > "Coding is better with a dash of humor and a lot of coffee."
 
-### 💼 Things I've Done through Internship:
+<!--### 💼 Things I've Done through Internship:
 - Plan and execute test cases with **Jira**
 - Automate tests using **Selenium** and **Katalon**
 - Build full-stack apps with **Java**, **Maven**, **SpringBoot**, **Node.js**, **Angular CLI**, and **TypeScript**
@@ -59,7 +59,7 @@ if (dayOfWeek == "Sunday" && month == "July" && currentYear % 4 == 0) {
 - Fix bugs and implement change requests
 - Write unit tests with **jMockito**
 - Review code and manage pull requests using **Git**, **Bitbucket**, and **GitHub**
-- Embrace **Agile Methodologies**
+- Embrace **Agile Methodologies**-->
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaaaaaaaaaaaaa&layout=compact&theme=synthwave&langs_count=8)-->
 
